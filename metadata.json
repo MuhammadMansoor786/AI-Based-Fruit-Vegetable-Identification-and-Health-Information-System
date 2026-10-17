@@ -1,0 +1,6 @@
+{
+  "name": "AI Fruit & Vegetable Recognition & Health Portal",
+  "description": "AI-powered fruit and vegetable identification with comprehensive botanical origins, USDA nutrition profiles, and clinical health precautions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
